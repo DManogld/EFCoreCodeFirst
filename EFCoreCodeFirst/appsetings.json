@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Db1": "Data Source=DESKTOP-DLNDEC4;Initial Catalog=EFCoreCodeFirst;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  }
+}

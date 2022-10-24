@@ -10,11 +10,7 @@ namespace EFCoreCodeFirst.Models
 {
     internal class Author
     {
-        public Author()
-        {
-          
-        }
-        
+    
         public int AuthorID{ get; set; }
         public ICollection<Book> Books { get; set; }
         public string FirstName { get; set; }

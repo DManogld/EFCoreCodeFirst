@@ -11,11 +11,6 @@ namespace EFCoreCodeFirst.Models
 {
     internal class Book
     {
-        public Book()
-        {
-            
-         
-        }
 
         
         public int BookID { get; set; }
